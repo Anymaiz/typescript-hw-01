@@ -6,12 +6,12 @@ function showMessage(message: string): void {
     return num1 + num2;
   }
   
-  function customError(): never {
-    throw new Error('Error');
-  }
+  // function customError(): never {
+  //   throw new Error('Error');
+  // }
   
   
   showMessage('Hello, TypeScript!'); 
   console.log(calc(7, 3));
-  //
-  customError();
+  
+  // customError();
