@@ -15,4 +15,7 @@ function setMode(mode: Mode): void {
   }
 }
 
- setMode('enable');   
+ setMode('enable');
+
+ //
+ console.log(value);//  

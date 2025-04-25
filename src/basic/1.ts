@@ -6,4 +6,4 @@ const callback: (a: number) => number = (a) => {
   return 100 + a;
 };
 
-console.log(age, username, toggle, empty, callback(5));
+console.log(age, username, toggle, empty, callback(7));

@@ -13,4 +13,5 @@ function showMessage(message: string): void {
   
   showMessage('Hello, TypeScript!'); 
   console.log(calc(7, 3));
-  // customError();
+  //
+  customError();
